@@ -1,4 +1,4 @@
-# Effective_Kotlin_Study
+# EffectiveKotlin_Study
 
 ### 🧞‍♀️ 스터디 참여자
 
