@@ -2,7 +2,7 @@
 
 ### 🧞‍♀️ 스터디 참여자
 
-|[![](https://github.com/H-Zoon.png?size=100)](https://github.com/H-Zoon)|[![](https://github.com/yjsmk0902.png?size=100)](https://github.com/yjsmk0902)|
+|[![](https://github.com/H-Zoon.png?size=100)](https://github.com/H-Zoon)||[![](https://github.com/yjsmk0902.png?size=100)](https://github.com/yjsmk0902)|
 |:---:|:---:|:---:|
 | **HyunJoon Choi** | **Seungmin yang** | 
 
